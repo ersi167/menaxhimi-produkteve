@@ -3,3 +3,8 @@ Telefon
 Monitor
 Tastiere
 Mouse
+
+
+Webcam
+Headset
+Printer
